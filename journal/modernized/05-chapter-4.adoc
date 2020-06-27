@@ -2467,7 +2467,11 @@ John Churchman.
 London, 4th of the Fourth month, 1754.
 
 [.postscript]
+====
+
 Let this be read in your men`'s and women`'s meetings.
+
+====
 
 --
 
